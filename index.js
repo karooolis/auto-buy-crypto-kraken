@@ -89,8 +89,6 @@ exports.main = async (req, res) => {
       finalVolume = MIN_QUANTITIES[base];
     }
 
-    console.log(tickerPair, finalVolume)
-
     await kraken.api("AddOrder", {
       pair: tickerPair,
       type: "buy",
