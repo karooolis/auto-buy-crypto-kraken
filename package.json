@@ -1,0 +1,11 @@
+{
+  "name": "auto-buy-crypto-kraken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Karolis Ramanauskas",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "kraken-api": "^1.0.0"
+  }
+}
