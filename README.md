@@ -11,3 +11,7 @@ This is a simple bot that helps you automatically and periodically buy selected 
 ## Why?
 
 The purpose of this bot is to take advantage of [dollar-cost averaging](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) which is an investment strategy where you periodically buy assets in smaller amounts rather than make large infrequent purchases. In this way you get to buy a given asset at an average price of that asset over a given period of time rather than at a single price point at which you happened to buy the asset. I prefer this strategy as you are not reliant on trying to catch price bottoms which I'm rarely successful at.
+
+## Support
+
+In case you get stuck, don't hesitate to create an [issue](https://github.com/superkarolis/auto-buy-crypto-kraken/issues). If there is interest, I will also create more detailed documentation.
